@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hamburger - Wikipedia</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      background-color: #f6f6f6;
+    }
+    #header {
+      background-color: #f6f6f6;
+      padding: 10px;
+      border-bottom: 1px solid #ccc;
+      text-align: right;
+      font-size: 0.9em;
+    }
+    #logo {
+      float: left;
+      padding-right: 10px;
+    }
+    #container {
+      display: flex;
+      margin: auto;
+      max-width: 1200px;
+    }
+    #sidebar {
+      width: 200px;
+      background-color: #f9f9f9;
+      padding: 10px;
+      border-right: 1px solid #ccc;
+      font-size: 0.9em;
+    }
+    #sidebar h3 {
+      margin-top: 0;
+    }
+    #sidebar a {
+      display: block;
+      margin: 5px 0;
+      color: #0645ad;
+      text-decoration: none;
+    }
+    #sidebar a:hover {
+      text-decoration: underline;
+    }
+    #content {
+      flex-grow: 1;
+      background: white;
+      padding: 20px;
+      border: 1px solid #ccc;
+    }
+    h1 {
+      font-size: 2em;
+      border-bottom: 1px solid #ccc;
+    }
+    h2 {
+      border-bottom: 1px solid #ccc;
+      margin-top: 30px;
+    }
+    p {
+      line-height: 1.6;
+    }
+    a {
+      color: #0645ad;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 10px auto;
+      border: 1px solid #ccc;
+      padding: 5px;
+      background-color: #fff;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+    #toc {
+      background-color: #f9f9f9;
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-bottom: 20px;
+    }
+    #toc h2 {
+      margin-top: 0;
+      font-size: 1.2em;
+      border: none;
+    }
+    #toc ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    #toc li {
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<div id="header">
+  <div id="logo">
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia Logo" width="50">
+  </div>
+  <span><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Create account</a> | <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Log in</a></span>
+</div>
+
+<div id="container">
+  <div id="sidebar">
+    <h3>Navigation</h3>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Main page</a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Contents</a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Featured content</a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Current events</a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Random article</a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Donate</a>
+    <hr>
+    <h3>Tools</h3>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">What links here</a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Related changes</a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Upload file</a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Printable version</a>
+  </div>
+
+  <div id="content">
+    <h1>Hamburger</h1>
+    <p><b>From Wikipedia, the free encyclopedia</b></p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/RedDot_Burger.jpg" alt="A delicious hamburger">
+
+    <div id="toc">
+      <h2>Contents</h2>
+      <ul>
+        <li><a href="#history">1 History</a></li>
+        <li><a href="#preparation">2 Preparation</a></li>
+        <li><a href="#varieties">3 Varieties</a></li>
+        <li><a href="#nutrition">4 Nutrition</a></li>
+        <li><a href="#see-also">5 See also</a></li>
+      </ul>
+    </div>
+
+    <p>A <b>hamburger</b> is a sandwich consisting of fillings—usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll.</p>
+
+    <h2 id="history">History</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Hamburger_(black_bg).jpg" alt="Hamburger close-up">
+    <p>The term "hamburger" originally derives from <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Hamburg, Germany</a>, where a cut of beef called the "Hamburg steak" is from. It was later popularized in the United States in the late 19th and early 20th centuries.</p>
+
+    <h2 id="preparation">Preparation</h2>
+    <p>The patty can be <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">grilled</a>, <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">fried</a>, or <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">broiled</a>. Hamburgers are often served with cheese, lettuce, tomato, bacon, onion, pickles, or chiles; condiments such as ketchup, mustard, mayonnaise, relish, or "special sauce".</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Classic_hamburger_and_fries.jpg" alt="Classic hamburger with fries">
+
+    <h2 id="varieties">Varieties</h2>
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Cheeseburger</a></li>
+      <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Bacon burger</a></li>
+      <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Veggie burger</a></li>
+      <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Double burger</a></li>
+    </ul>
+
+    <h2 id="nutrition">Nutrition</h2>
+    <p>Depending on toppings and portion size, hamburgers can range from <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">low-fat</a> to <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">high-calorie</a> meals. It's recommended to enjoy in moderation!</p>
+
+    <h2 id="see-also">See also</h2>
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Fast food</a></li>
+      <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Sandwich</a></li>
+      <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Barbecue</a></li>
+    </ul>
+
+    <hr>
+    <p>This page was last edited on <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">March 18, 2025</a>.</p>
+  </div>
+</div>
+
+</body>
+</html>
